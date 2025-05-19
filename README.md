@@ -114,5 +114,3 @@ Report bugs or suggest improvements via the [Issues](https://github.com/youruser
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-Built with 🐟 by [Your Name](https://github.com/yourusername)
