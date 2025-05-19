@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1747637536 source:d:\programming\team project\fishfrenzy\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<vector>
+	<cstdlib>
+	<ctime>
+
