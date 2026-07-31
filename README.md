@@ -1,4 +1,4 @@
-# FishFrenzy 🐠🖱️
+# FishFrenzy 
 
 A C-based 2D game built with `graphics.h`, where players control a fish using the mouse to dodge obstacles in dynamic aquatic scenes. FishFrenzy features retro-style visuals, collision detection, mouse input handling, and escalating difficulty levels for an engaging gameplay experience.
 
